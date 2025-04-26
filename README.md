@@ -99,3 +99,9 @@ python app.py --start 2022-04-01 --end 2022-05-01 --parallel
 ```sh
 python app.py --file path\to\your\tweets.js
 ```
+
+---
+
+## ライセンス
+
+このプロジェクトはMITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルをご覧ください。
